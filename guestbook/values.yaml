@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: quay.io/akuity/argo-cd-learning-assets/guestbook
+  repository: ghcr.io/sam-ng/fintech-devcon:latest
   tag: latest
   pullPolicy: IfNotPresent
 
