@@ -1,2 +1,5 @@
 service:
   type: ClusterIP
+
+image:
+  tag: b450d39

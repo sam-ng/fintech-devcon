@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: ghcr.io/sam-ng/fintech-devcon:latest
+  repository: ghcr.io/sam-ng/fintech-devcon
   tag: latest
   pullPolicy: IfNotPresent
 
